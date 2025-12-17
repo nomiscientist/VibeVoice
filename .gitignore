@@ -95,7 +95,6 @@ celerybeat-schedule
 *.sage.py
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -123,7 +122,6 @@ dmypy.json
 
 # vscode
 .vs
-.vscode
 
 # Pycharm
 .idea
@@ -176,3 +174,5 @@ tags
 exp
 .gradio/
 experimental_voices
+config.bat
+node_modules
